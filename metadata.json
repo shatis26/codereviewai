@@ -1,0 +1,5 @@
+{
+  "name": "CodeReviewAI - Intelligent Code Assistant",
+  "description": "A robust code review assistant that uses Google Gemini 2.5 to analyze source code for readability, bugs, code smells, and security vulnerabilities.",
+  "requestFramePermissions": []
+}
