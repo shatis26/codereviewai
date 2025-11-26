@@ -64,8 +64,3 @@ The backend service uses a strict **JSON Schema** to force Gemini to return stru
 
 **Internal System Instruction:**
 > "You are a senior principal software engineer... Focus on Readability, Modularity, Code Smells, Bugs, Best Practices, and Security."
-
-## ⚠️ Notes
-
-- **Client-Side Limitation**: For a production app, the API calls should be proxied through a backend server to keep your API key secret. This project uses client-side calls for demonstration purposes.
-- **File Size**: Limited to ~50KB text files for browser performance.
